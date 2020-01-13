@@ -1,0 +1,7 @@
+altair
+netcdf4
+xarray
+streamlit
+jupyter-server-proxy 
+nbserverprox
+vega_datasets
